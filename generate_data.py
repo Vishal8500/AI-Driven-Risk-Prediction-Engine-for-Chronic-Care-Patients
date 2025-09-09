@@ -1,9 +1,3 @@
-# ============================
-# Synthetic Dataset + XGBoost + Evaluation + SHAP
-# Added features: prev_hosp_365, sleep_hours
-# Full copy-paste runnable notebook code
-# ============================
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

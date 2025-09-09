@@ -1,6 +1,3 @@
-# Full pipeline: Train XGBoost (with fallback), calibration, evaluation,
-# classification report, SHAP explainability, and save model + plots.
-
 import os
 import numpy as np
 import pandas as pd
